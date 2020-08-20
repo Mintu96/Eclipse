@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23924" started-at="2020-08-20T12:13:48 IST" finished-at="2020-08-20T12:14:12 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23924" started-at="2020-08-20T12:13:48 IST" finished-at="2020-08-20T12:14:12 IST">
+      <class name="Ecom.EcomerceWebsite">
+        <test-method status="PASS" signature="flipkart()[pri:0, instance:Ecom.EcomerceWebsite@1d16f93d]" name="flipkart" duration-ms="23812" started-at="2020-08-20T12:13:49 IST" finished-at="2020-08-20T12:14:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkart -->
+      </class> <!-- Ecom.EcomerceWebsite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
